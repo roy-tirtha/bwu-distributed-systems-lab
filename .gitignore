@@ -1,0 +1,17 @@
+# Compiled Java classes 
+*.class
+
+# IDE folders (if you're using IntelliJ / Eclipse / VS Code)
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs, if you ever add any
+*.log
